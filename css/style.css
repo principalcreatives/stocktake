@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	font-size: 12px;
+}
+
+table {
+	width: 100%;
+}
+
+#container {
+	width: 80%;
+	margin: 0 auto;
+	font-family: Verdana,Arial,sans-serif;
+}
+
+#btn_add_stock, #txt_cn{
+	margin: 10px 0px 10px 0px;
+}
